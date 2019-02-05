@@ -1,0 +1,9 @@
+Juan Lluva Llord,
+Andres Montero Ranc
+
+## Plataforma utilizada
+* Android
+
+## Listado de mejoras
+* Navegación
+* Almacenamiento de preguntas 
